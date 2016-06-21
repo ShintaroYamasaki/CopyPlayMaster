@@ -232,7 +232,7 @@
 				CE4BDDE91AD3E7FC0013EC62 /* InfoViewController.m */,
 			);
 			name = CopyPlayMaster;
-			path = "/Users/yamasakishintarou/Documents/Xcode'sWorkspace/iOS/CopyPlayMaster/CopyPlayMaster";
+			path = /Users/shintaroyamasaki/Documents/xcode/iOS/copyplaymaster/CopyPlayMaster;
 			sourceTree = "<absolute>";
 		};
 		CEA5D7301A4411FA000D16E8 /* Supporting Files */ = {
