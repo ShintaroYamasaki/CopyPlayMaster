@@ -231,9 +231,8 @@
 				CE4BDDE81AD3E7FC0013EC62 /* InfoViewController.h */,
 				CE4BDDE91AD3E7FC0013EC62 /* InfoViewController.m */,
 			);
-			name = CopyPlayMaster;
-			path = /Users/shintaroyamasaki/Documents/xcode/iOS/copyplaymaster/CopyPlayMaster;
-			sourceTree = "<absolute>";
+			path = CopyPlayMaster;
+			sourceTree = "<group>";
 		};
 		CEA5D7301A4411FA000D16E8 /* Supporting Files */ = {
 			isa = PBXGroup;
